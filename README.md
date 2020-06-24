@@ -1,4 +1,4 @@
-# system-info
+# system-info.sh
 
 This script collect basic system information such as 
 
