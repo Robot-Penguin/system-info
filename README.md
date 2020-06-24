@@ -1,6 +1,6 @@
 # system-info.sh
 
-This script collect basic system information such as 
+This script collect basic system information such as:
 
 * HOSTNAME 
 * OS INFORMATION  
@@ -9,4 +9,4 @@ This script collect basic system information such as
 * DISKPACE UTILIZATION   
 * USERS HOME SPACE UTILIZATION   
 
-and export it in HTML format. This scripts is tested in Centos 6.8.
+Information will be exported as html. This script is tested in CentOS 6.8
